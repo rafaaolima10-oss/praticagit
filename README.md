@@ -1,2 +1,2 @@
 # praticagit
-Repositório para praticar comandos 
+Repositório para praticar comandos Git
